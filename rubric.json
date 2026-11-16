@@ -1,0 +1,19 @@
+{
+  "Criteria": [
+    {
+      "Name": "Домашние задания",
+      "MaxScore": 10,
+      "Weight": 0.3
+    },
+    {
+      "Name": "Проект",
+      "MaxScore": 20,
+      "Weight": 0.4
+    },
+    {
+      "Name": "Контрольная",
+      "MaxScore": 10,
+      "Weight": 0.3
+    }
+  ]
+}

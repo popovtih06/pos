@@ -1,0 +1,28 @@
+[
+  {
+    "ID": "s-001",
+    "Name": "Иванов Иван",
+    "Evaluations": [
+      {
+        "CriterionName": "Проект",
+        "Value": 16,
+        "Max": 20
+      },
+      {
+        "CriterionName": "Домашние задания",
+        "Value": 9,
+        "Max": 10
+      },
+      {
+        "CriterionName": "Контрольная",
+        "Value": 7,
+        "Max": 10
+      }
+    ]
+  },
+  {
+    "ID": "s1-001",
+    "Name": "Иванов Иван",
+    "Evaluations": null
+  }
+]
